@@ -19,5 +19,5 @@ int add(int a, int b)
 // Exercise 2: implements function 'mul', that multiplies two numbers
 int mul(int a, int b)
 {
-   return a*b; // TODO: fix
+   return 0; // TODO: fix
 }
